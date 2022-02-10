@@ -1,10 +1,20 @@
-# LaunchBase-Desafio-2-1
+## :rocket: Sobre o desafio
 
-## 🚀 Sobre o desafio
+A partir do arquivo do desafio 2-1, adicionar um novo link no header chamado Sobre. Essa página deverá mostrar informações referentes a Rocketseat.
 
-Criar um arquivo html que contenha um [favicon](favicon.ico) e um header com 3 links: Comunidade, Email e Telefone.
+### Informações da página
 
-### 🌟
+- Uma imagem da logo da empresa
+- O nome da empresa
+- Uma breve descrição da empresa
+- Uma lista com as principais tecnologias utilizadas. Dica: utilize a tag `ul` para lista e `li` para o item da lista.
+- Links para as redes sociais da empresa (Github, Instagram e Facebook)
 
-O favicon é o ícone que aparece na aba do navegador. O arquivo está disponível com o nome favicon.ico. Para utilizá-lo é necessário importá-lo com a tag link no html. ser dada a dica de utilizar a tag link na head do html.
-# LaunchBase-Desafio-2-2
+### Estilização
+
+Você tem liberdade para escolher a estilização que preferir para esse desafio, mas alguns pontos são obrigatórios:
+
+- A imagem deve ter uma borda e um formato circular.
+- Deve ser utilizada a fonte Roboto
+- O nome da empresa e a imagem devem ser destacar do restante
+- Os links das redes sociais devem ter alguma alteração visual quando o cursor do mouse passar por cima
